@@ -1,0 +1,39 @@
+.container{
+    background-color: #EEEEEE;
+    width: 100%;
+}
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.myimg{
+  height: 60vh;
+  background: linear-gradient(
+    to top,
+    #E1D4BB 0%,
+    #E1D4BB 50%,
+    #EEEEEE 50%,
+    #EEEEEE 100%
+  );
+   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#circle{
+    background-color: #EEEEEE;
+}
+#aread{
+    color: black;
+    font-size: medium;
+    text-decoration: none;
+}
+#myskill{
+    background-color: #E1D4BB ;
+    text-align: center;
+}
+.text-body-emphasis{
+    
+    background-color: #E1D4BB;
+}
+
